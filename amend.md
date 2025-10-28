@@ -1,3 +1,3 @@
 AMEND 실습하기
 
-Main
+Pick 실습하기 12345
