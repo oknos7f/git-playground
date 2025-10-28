@@ -1,3 +1,3 @@
 AMEND 실습하기
 
-Pick
+Pick 실습하기
